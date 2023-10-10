@@ -1,9 +1,7 @@
 #include <stdio.h>
 /**
- *using puts function
- *by puts
- *The main function is the entry point
- *return: always 0 (success)
+ *main - this is a puts function
+ *Return: always 0 (success)
  */
 int main(void)
 {
