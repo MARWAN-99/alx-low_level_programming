@@ -3,7 +3,7 @@
 /**
  * print_sign - function that prints the sing of a number
  * @n: is a character to print sing
- * Return: 1 if n is greater than zero and 0 if n is zero and -1 if n less than zero
+ * Return: 1 if n is positive, -1 if n is negative or zero for anything else
  */
 
 int print_sign(int n)
