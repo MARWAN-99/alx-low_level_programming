@@ -5,7 +5,7 @@
 /**
  * add - function that add two integers
  * @n1: the firstr number to be comuter
- * @n2; the second number to be computer
+ * @n2: the second number to be computer
  * Return: integer value
  */
 
