@@ -2,7 +2,7 @@
 
 /**
  * print_most_numbers - function that prints 01356789
- * Return: Always 0
+ * Return:void
  */
 
 void print_most_numbers(void)
