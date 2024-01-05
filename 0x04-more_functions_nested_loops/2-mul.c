@@ -5,7 +5,7 @@
  * mul - function that multiplies two integers 
  * @n1: the first number to be computer
  * @n2: the second number to be computer
- * Return: integer value
+ * Return: always 0
  */
 
 int mul(int n1, int n2)
